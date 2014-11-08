@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Debug_SuperSDG2_2005.exe</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>SuperSDG2_2005.exe</name>
+			<type>1</type>
+			<location>D:/Documents/GitHub/openGl/Ravent-App-Store/SuperSDG2/binaries/SuperSDG2_2005.exe</location>
+		</link>
+	</linkedResources>
+</projectDescription>
